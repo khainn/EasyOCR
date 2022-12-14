@@ -1,0 +1,4 @@
+name: OCRenv
+channels:
+  - defaults
+prefix: /home/khainn/anaconda3/envs/OCRenv

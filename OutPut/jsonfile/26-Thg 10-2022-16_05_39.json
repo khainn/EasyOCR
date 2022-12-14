@@ -1,0 +1,82 @@
+{
+    "Category": "Can Cuoc Cong Dan",
+    "Number": {
+        "bbox": [],
+        "value": ""
+    },
+    "Full name": {
+        "bbox": [
+            [
+                184,
+                280
+            ],
+            [
+                360,
+                280
+            ],
+            [
+                360,
+                308
+            ],
+            [
+                184,
+                308
+            ]
+        ],
+        "value": "NGÔ NGỌC KHẢl"
+    },
+    "Date Of Birth": {
+        "bbox": [
+            [
+                344,
+                308
+            ],
+            [
+                440,
+                308
+            ],
+            [
+                440,
+                332
+            ],
+            [
+                344,
+                332
+            ]
+        ],
+        "value": "24/03/1996"
+    },
+    "Sex": {
+        "bbox": [],
+        "value": ""
+    },
+    "Nationality": {
+        "bbox": [
+            [
+                378,
+                331
+            ],
+            [
+                553,
+                331
+            ],
+            [
+                553,
+                351
+            ],
+            [
+                378,
+                351
+            ]
+        ],
+        "value": "Việt Nam"
+    },
+    "Place of origin": {
+        "bbox": [],
+        "value": ""
+    },
+    "Date of expiry": {
+        "bbox": [],
+        "value": ""
+    }
+}

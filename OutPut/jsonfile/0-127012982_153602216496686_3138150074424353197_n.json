@@ -1,0 +1,65 @@
+{
+    "Category": "Can Cuoc Cong Dan",
+    "Number": {
+        "bbox": [],
+        "value": ""
+    },
+    "Full name": {
+        "bbox": [
+            [
+                791,
+                368
+            ],
+            [
+                840,
+                368
+            ],
+            [
+                840,
+                389
+            ],
+            [
+                791,
+                389
+            ]
+        ],
+        "value": "Ce?"
+    },
+    "Date Of Birth": {
+        "bbox": [],
+        "value": ""
+    },
+    "Sex": {
+        "bbox": [],
+        "value": ""
+    },
+    "Nationality": {
+        "bbox": [
+            [
+                910,
+                505
+            ],
+            [
+                1018,
+                505
+            ],
+            [
+                1018,
+                530
+            ],
+            [
+                910,
+                530
+            ]
+        ],
+        "value": "Fa"
+    },
+    "Place of origin": {
+        "bbox": [],
+        "value": ""
+    },
+    "Date of expiry": {
+        "bbox": [],
+        "value": ""
+    }
+}

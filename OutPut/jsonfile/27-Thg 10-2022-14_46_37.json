@@ -1,0 +1,99 @@
+{
+    "Category": "Can Cuoc Cong Dan",
+    "Number": {
+        "bbox": [],
+        "value": ""
+    },
+    "Full name": {
+        "bbox": [
+            [
+                377,
+                439
+            ],
+            [
+                775,
+                439
+            ],
+            [
+                775,
+                501
+            ],
+            [
+                377,
+                501
+            ]
+        ],
+        "value": "NGÔ NGỌC KHẢl"
+    },
+    "Date Of Birth": {
+        "bbox": [
+            [
+                739,
+                503
+            ],
+            [
+                861,
+                503
+            ],
+            [
+                861,
+                547
+            ],
+            [
+                739,
+                547
+            ]
+        ],
+        "value": "24/03/"
+    },
+    "Sex": {
+        "bbox": [],
+        "value": ""
+    },
+    "Nationality": {
+        "bbox": [
+            [
+                1036,
+                544
+            ],
+            [
+                1211,
+                544
+            ],
+            [
+                1211,
+                595
+            ],
+            [
+                1036,
+                595
+            ]
+        ],
+        "value": "Việt Nam"
+    },
+    "Place of origin": {
+        "bbox": [
+            [
+                373,
+                634
+            ],
+            [
+                1145,
+                634
+            ],
+            [
+                1145,
+                699
+            ],
+            [
+                373,
+                699
+            ]
+        ],
+        "value": "Đa Mai, Thành phố Bắc Giang, Bắc Giang"
+    },
+    "Date of expiry": {
+        "bbox": [],
+        "value": ""
+    }
+}

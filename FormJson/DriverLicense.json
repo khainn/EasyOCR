@@ -1,0 +1,64 @@
+{
+    "Category": "Driver license",
+    "American states": {
+        "bbox": [1,2],
+        "value": ""
+    },
+    "DL": {
+        "bbox": [],
+        "value":""
+    },
+    "EXP": {
+        "bbox": [],
+        "value":""
+    },
+    "Last Name": {
+        "bbox": [],
+        "value":""
+    },
+    "First Name": {
+        "bbox": [],
+        "value":""
+    }, 
+    "Address": {
+        "bbox": [],
+        "value":""
+    },
+    "Date Of Birth": {
+        "bbox": [],
+        "value":""
+    },
+    "RSTR": {
+        "bbox": [],
+        "value":""
+    },
+    "SEX": {
+        "bbox": [],
+        "value":""
+    },
+    "HAIR": {
+        "bbox": [],
+        "value":""
+    },
+    "EYES": {
+        "bbox": [],
+        "value":""
+    },
+    "HGT": {
+        "bbox": [],
+        "value":""
+    },
+    "WGT": {
+        "bbox": [],
+        "value":""
+    },
+
+    "DD": {
+        "bbox": [],
+        "value":""
+    },
+    "ISS": {
+        "bbox": [],
+        "value":""
+    }
+}
